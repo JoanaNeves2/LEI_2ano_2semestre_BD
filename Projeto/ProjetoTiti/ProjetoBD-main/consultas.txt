@@ -1,0 +1,37 @@
+select UserName
+from Achievemnet inner join Conq using(AchievementID)
+                 inner join UserC using(UserID)
+where AchievementName = Search;
+
+select GameName
+from Game inner join TypeG using(GameCategory)
+where GameCategory = Search;
+
+select UserName nAdmin
+from Game inner join ManageG using(GameID)
+          inner join UserC using(UserID)
+where GameName = Search;
+
+select UserName nAdmin
+from Game inner join ManageG using(GameID)
+          inner join AdminC using(nAdmin)
+          inner join UserC using(UserID)
+where GameName = Search;
+
+
+create view usergames as (
+select GameID GameName
+from UserC inner join Has using(UserID)
+             inner join Game using(GameID)
+where UserName = 'Alexe';)
+
+select UserName GameName
+from UserC inner join Has using(UserID)
+           inner join (select GameID GameName
+from UserC inner join Has using(UserID)
+             inner join Game using(GameID)
+where UserName = 'Alexe';) using(GameID)
+where UserName <> 'Alexe';
+              
+
+

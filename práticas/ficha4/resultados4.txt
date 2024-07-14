@@ -1,0 +1,255 @@
+Para poderem fazer alguma verificação da correção das vossas perguntas na ficha 4, aqui ficam, para cada pergunta, o que se obtém como primeiros resultados e o nº total de resultados:
+
+Atenção: Como apenas mostra os primeiros resultados, pode ser que os seus primeiros resultados não coincidam com estes nas perguntas em que não se impõe uma ordem...
+
+-- 1
+201
+
+
+-- 2
+450 resultados
+
+Escola Secundária António Damásio, Lisboa	66
+Equivalências (nº 2 Artº 20-A)	57
+Escola Secundária Rainha Dona Leonor, Lisboa	56
+Escola Secundária do Restelo, Lisboa	54
+Salesianos de Lisboa - Colégio Oficinas de São José	53
+Escola Secundária Sebastião e Silva, Oeiras	53
+Escola Secundária José Gomes Ferreira, Lisboa	52
+Escola Secundária Pedro Nunes, Lisboa	51
+Escola Secundária José Saramago, Mafra	48
+Escola Básica e Secundária D. Filipa de Lencastre, Lisboa	45
+
+-- 3
+651 resultados
+
+Escola Secundária António Damásio, Lisboa	66
+Equivalências (nº 2 Artº 20-A)	57
+Escola Secundária Rainha Dona Leonor, Lisboa	56
+Escola Secundária do Restelo, Lisboa	54
+Salesianos de Lisboa - Colégio Oficinas de São José	53
+Escola Secundária Sebastião e Silva, Oeiras	53
+Escola Secundária José Gomes Ferreira, Lisboa	52
+Escola Secundária Pedro Nunes, Lisboa	51
+Escola Secundária José Saramago, Mafra	48
+Escola Básica e Secundária D. Filipa de Lencastre, Lisboa	45
+
+-- 4
+168 resultados
+
+LUIS A. V. N.	167,6	166	1	Escola Básica e Secundária de Michel Giacometti, Sesimbra
+TIAGO H. G. D.	167	173	1	Escola Básica e Secundária de Michel Giacometti, Sesimbra
+LAURA C. M.	168,4	174	5	Escola Secundária João Silva Correia, São João da Madeira
+ALEXANDRE R. C. C.	166,2	176	1	Escola Secundária José Falcão, Coimbra
+DANIEL B.	166,4	166	1	Escola Secundária João de Deus, Faro
+TOMÁS M. S.	168,6	171	1	Escola Secundária Poeta António Aleixo, Portimão
+ANTÓNIO G. S. D.	180,8	176	1	Escola Secundária Afonso de Albuquerque, Guarda
+ALEXANDRE M. M.	165,6	168	3	Escola Secundária Afonso de Albuquerque, Guarda
+RODRIGO E. A.	167,6	154	1	Escola Secundária da Amadora
+GUILHERME M. C.	166,6	163	2	Escola Secundária de São João do Estoril, Cascais
+
+-- 5
+Esta depende da sua escola do secundário. 
+Se estudou na Escola Secundária Stuart Carvalhais, o resultado é o que está em baixo.
+
+8 resultados
+
+CAROLINA A. B.	Química Aplicada
+GONÇALO D. S. R.	Engenharia Eletrotécnica e de Computadores
+RODRIGO M. P. F.	Engenharia Eletrotécnica e de Computadores
+TIAGO M. V. D.	Engenharia Informática
+MARIA R. C. D.	Bioquímica
+MARTA A. G.	Engenharia Química e Biológica
+JOÃO A. D. S.	Engenharia Eletrotécnica e de Computadores
+BRUNA S. C. F.	Engenharia do Ambiente
+
+
+-- 6
+367 resultados
+
+MARIA B. P. M.	Matemática Aplicada à Gestão do Risco
+FERNANDO D. P. F.	Matemática
+GONÇALO D. S. C.	Matemática Aplicada à Gestão do Risco
+LEONOR R. P.	Matemática
+MARIA L. M. F.	Matemática Aplicada à Gestão do Risco
+PEDRO L. D. N.	Matemática
+JOÃO D. A. H.	Matemática
+INÊS D. S. S.	Ciência de Dados
+MADALENA M. P. L.	Matemática Aplicada à Gestão do Risco
+SARA M. D. S.	Matemática
+
+
+-- 7
+816 resultados
+
+CLARA J. F. R.	Setúbal	R. A. Açores
+MARGARIDA D. M. L.	Setúbal	Lisboa
+LEONOR E. C. M.	Setúbal	Lisboa
+EVA H.	Setúbal	Lisboa
+ANGÉLICA M. R. C.	Setúbal	Lisboa
+JOANA S. R. L.	Setúbal	Lisboa
+KATERYNA Z.	Setúbal	Lisboa
+DIOGO C. D. A.	Setúbal	Lisboa
+MAFALDA R. B.	Setúbal	Lisboa
+SOFIA M. M. P.	Setúbal	Lisboa
+
+
+-- 8
+15 resultados
+
+Engenharia Informática
+Engenharia Mecânica
+Engenharia Eletrotécnica e de Computadores
+Engenharia Química e Biológica
+Conservação - Restauro
+Engenharia Civil
+Bioquímica
+Química Aplicada
+Engenharia de Micro e Nanotecnologias
+Engenharia e Gestão Industrial
+Matemática
+Engenharia do Ambiente
+Engenharia Física
+Engenharia Biomédica
+Engenharia de Materiais
+
+
+-- 9
+2 resultados
+
+Conservação - Restauro
+Engenharia Civil
+
+-- 10
+1 resultado
+
+Conservação - Restauro
+
+-- 11
+8 resultados
+
+Escola Secundária Santo André, Barreiro
+Escola Secundária Emídio Navarro, Almada
+Escola Secundária Daniel Sampaio, Sobreda, Almada
+Escola Secundária João de Barros, Corroios, Seixal
+Escola Secundária du Bocage, Setúbal
+Escola Secundária Dr. José Afonso, Arrentela, Seixal
+Escola Secundária de Sampaio, Sesimbra
+Escola Secundária Sebastião da Gama, Setúbal
+
+-- 12
+9 resultados
+
+RICARDO M. R. F.	20
+SOMAYA C. D. A.	20
+JOSE D. O. C.	20
+MARIA L. P. M.	20
+PEDRO M. R.	20
+MARIA B. P. M.	20
+FERNANDA I. S. C.	20
+MÁRIO F. E. R.	20
+MARIA I. B. C.	20
+
+-- 13
+18 resultados
+
+Engenharia Informática	16,48
+Engenharia Mecânica	16,52
+Matemática Aplicada à Gestão do Risco	16,54
+Engenharia Eletrotécnica e de Computadores	12,7
+Engenharia Química e Biológica	14,98
+Conservação - Restauro	15,14
+Engenharia Civil	13,28
+Bioquímica	16,96
+Engenharia Geológica	13,04
+Química Aplicada	15,04
+Engenharia de Micro e Nanotecnologias	13,7
+Engenharia e Gestão Industrial	16,52
+Matemática	15,9
+Engenharia do Ambiente	14,48
+Engenharia Física	17,46
+
+-- 14
+282 resultados
+
+LUÍS F. D. M.	14,7
+FILIPE D. S. C.	16,2
+MARIA A. D.	16,1
+MARIA J. S. G.	15,6
+JOANA F. B. V.	14,6
+ALEXANDRE S. S.	14
+JOSUÉ M. B.	15,6
+LUANA F. N. L.	15,2
+MAFALDA C. E. S.	14,5
+DIANE J. C. P.	15,4
+
+-- 15
+1 resultado
+
+
+Engenharia Informática
+
+-- 16
+18 resultados
+
+Engenharia Eletrotécnica e de Computadores	7,22891566265060240963855421686746987952
+Engenharia Informática	11,30952380952380952380952380952380952381
+Engenharia Mecânica	18,66666666666666666666666666666666666667
+Engenharia de Micro e Nanotecnologias	30,76923076923076923076923076923076923077
+Engenharia Civil	32
+Engenharia de Materiais	40
+Engenharia Geológica	40
+Matemática	44
+Engenharia Física	46,42857142857142857142857142857142857143
+Engenharia e Gestão Industrial	49,09090909090909090909090909090909090909
+Matemática Aplicada à Gestão do Risco	52
+Engenharia do Ambiente	58,18181818181818181818181818181818181818
+Engenharia Biomédica	58,33333333333333333333333333333333333333
+Engenharia Química e Biológica	64,78873239436619718309859154929577464789
+Biologia Celular e Molecular	72,30769230769230769230769230769230769231
+Bioquímica	73,41772151898734177215189873417721518987
+Química Aplicada	75,75757575757575757575757575757575757576
+Conservação - Restauro	88,88888888888888888888888888888888888889
+
+-- 17
+17 resultados
+
+Engenharia Mecânica	17,059
+Engenharia Informática	16,9082758620689655172413793103448275862
+Engenharia Eletrotécnica e de Computadores	14,7371428571428571428571428571428571429
+Engenharia Química e Biológica	15,6930769230769230769230769230769230769
+Matemática Aplicada à Gestão do Risco	16,7177777777777777777777777777777777778
+Conservação - Restauro	15,48
+Engenharia Civil	14,0933333333333333333333333333333333333
+Engenharia Geológica	13,762
+Bioquímica	17,4242857142857142857142857142857142857
+Química Aplicada	15,5977777777777777777777777777777777778
+Engenharia e Gestão Industrial	16,985
+Engenharia de Micro e Nanotecnologias	15,7127272727272727272727272727272727273
+Matemática	16,62
+Engenharia do Ambiente	15,2042105263157894736842105263157894737
+Engenharia Biomédica	17,84
+Biologia Celular e Molecular	17,8057142857142857142857142857142857143
+Engenharia de Materiais	15,2723076923076923076923076923076923077
+
+-- 18
+18 resultados
+
+9209	Matemática	25	252	9,92063492063492063492063492063492063492
+L167	Matemática Aplicada à Gestão do Risco	25	206	12,13592233009708737864077669902912621359
+9348	Biologia Celular e Molecular	65	521	12,47600767754318618042226487523992322457
+9015	Bioquímica	80	626	12,77955271565495207667731629392971246006
+9119	Engenharia Informática	170	1297	13,10717039321511179645335389360061680802
+9113	Engenharia Física	28	212	13,20754716981132075471698113207547169811
+9123	Engenharia Mecânica	75	544	13,78676470588235294117647058823529411765
+9455	Engenharia Biomédica	60	408	14,70588235294117647058823529411764705882
+9089	Engenharia Civil	50	321	15,57632398753894080996884735202492211838
+9096	Engenharia de Materiais	25	159	15,72327044025157232704402515723270440252
+9104	Engenharia e Gestão Industrial	55	338	16,27218934911242603550295857988165680473
+9224	Química Aplicada	32	195	16,41025641025641025641025641025641025641
+9099	Engenharia do Ambiente	55	291	18,90034364261168384879725085910652920962
+9126	Engenharia Química e Biológica	71	359	19,77715877437325905292479108635097493036
+9116	Engenharia Geológica	20	97	20,61855670103092783505154639175257731959
+8036	Conservação - Restauro	27	116	23,2758620689655172413793103448275862069
+L231	Engenharia de Micro e Nanotecnologias	66	259	25,48262548262548262548262548262548262548
+L209	Engenharia Eletrotécnica e de Computadores	166	527	31,49905123339658444022770398481973434535

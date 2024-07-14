@@ -1,0 +1,223 @@
+Para poderem fazer alguma verificação da correção das vossas respostas às perguntas da ficha 3, aqui ficam, para cada pergunta, o nº total de resultados que se obtém e os primeiros resultados:
+
+Atenção: Como apenas se mostram os primeiros resultados, pode ser que os seus primeiros resultados não coincidam com estes nas perguntas em que não se impõe uma ordem...
+
+-- 1
+4308 resultados
+
+RÚBEN P. F.	165
+LIA M. C.	173
+LUCY D. S. G.	177
+ADRIANA R. D. S.	167
+MARIA J. R. P.	171
+DANIEL F. T. R.	162
+RAQUEL S. N. C.	172
+BRUNO M. P. A.	172
+RAQUEL F. L. D.	185
+INES A. B. R.	177
+
+-- 2
+4308
+
+
+-- 3
+16,7370009285051067780872794800371402043
+
+
+-- 4
+450
+
+
+-- 5
+
+M	2566
+F	1742
+
+
+-- 6
+1160
+
+
+-- 7
+18	1095
+
+
+-- 8
+59 resultados
+
+4827
+5143
+6038
+24567
+27310
+29143
+33394
+34486
+35017
+42516
+
+-- 9
+199
+
+
+-- 10
+282 resultados
+
+2977
+5901
+7035
+7063
+11066
+12568
+13800
+15146
+15160
+21219
+
+
+-- 11
+4308 resultados
+
+RÚBEN P. F.	Escola Secundária Domingos Sequeira, Leiria
+LIA M. C.	Escola Secundária de Pombal
+LUCY D. S. G.	Escola Secundária Viriato, Abravases, Viseu
+ADRIANA R. D. S.	Escola Secundária Domingos Rebelo
+MARIA J. R. P.	Escola Secundária Camões, Lisboa
+DANIEL F. T. R.	Escola Secundária D. Inês de Castro, Alcobaça
+RAQUEL S. N. C.	Colégio Campo de Flores
+BRUNO M. P. A.	Escola Secundária Dr. João Manuel da Costa Delgado, Lourinhã
+RAQUEL F. L. D.	Escola Básica e Secundária de Muralhas do Minho, Valença
+INES A. B. R.	Escola Secundária Gonçalo Anes Bandarra, Trancoso
+
+
+-- 12
+968 resultados
+
+LUIS A. V. N.	Escola Básica e Secundária de Michel Giacometti, Sesimbra	Sesimbra
+TIAGO H. G. D.	Escola Básica e Secundária de Michel Giacometti, Sesimbra	Sesimbra
+GONÇALO M. L. P.	Escola Básica e Secundária de Michel Giacometti, Sesimbra	Sesimbra
+ANNA N.	Escola Básica e Secundária de Michel Giacometti, Sesimbra	Sesimbra
+MELISSA D. L. V.	Escola Básica e Secundária de Michel Giacometti, Sesimbra	Sesimbra
+INÊS R. A.	Escola Básica e Secundária Dr. João Brito Camacho, Almodôvar	Almodôvar
+TOMÁS I. C. A.	Escola Básica e Secundária de Ourique	Ourique
+MIGUEL C. C.	Escola Básica e Secundária Pedro da Fonseca, Proença-a-Nova	Proença-a-Nova
+ANA V. D. S.	Escola Secundária Fernando Namora, Condeixa-a-Nova	Condeixa-a-Nova
+DIOGO D. D.	Escola Básica e Secundária Joaquim Inácio da Cruz Sobral	Sobral de Monte Agraço
+
+
+-- 13
+6 resultados
+
+1	Engenharia Civil	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia	144,4
+2	Engenharia Civil	Universidade de Lisboa - Instituto Superior Técnico	141,5
+3	Engenharia Mecânica	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia	144,4
+4	Engenharia Mecânica	Universidade de Lisboa - Instituto Superior Técnico	141,5
+5	Arquitetura	Universidade de Lisboa - Faculdade de Arquitetura	176
+6	Arquitetura	Universidade de Lisboa - Instituto Superior Técnico	158,5
+
+-- 14
+Esta depende do seu nome. Se usou o nome indicado, o resultado é igual à alínea anterior.
+
+
+-- 15
+5 resultados
+
+Matemática A	2022	1
+Matemática A	2022	2
+Geometria Descritiva A	2021	1
+Geometria Descritiva A	2021	2
+Física e Química A	2022	1
+
+O seu resultado depende de si. O resultado do aluno indicado na ficha é igual ao anterior.
+
+-- 16
+88 resultados
+
+AFONSO P. T. M.	Fisioterapia	Instituto Politécnico de Setúbal - Escola Superior de Saúde
+AFONSO M. F. P.	Engenharia Mecatrónica	Universidade de Évora - Escola de Ciências e Tecnologia
+AFONSO V. G. V.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO E. F.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO B. F.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO R. T.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO F. B. R.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO C. F.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO M. D. M.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO D. A. P.	Engenharia Eletrotécnica e de Computadores	Universidade do Porto - Faculdade de Engenharia
+
+
+-- 17
+18 resultados
+
+Engenharia Informática	16,392829606784888203546646106399383192
+Engenharia Mecânica	17,0779411764705882352941176470588235294
+Matemática Aplicada à Gestão do Risco	17,159708737864077669902912621359223301
+Engenharia Eletrotécnica e de Computadores	16,4688804554079696394686907020872865275
+Engenharia Química e Biológica	17,1044568245125348189415041782729805014
+Conservação - Restauro	15,75
+Engenharia Civil	15,6616822429906542056074766355140186916
+Bioquímica	17,0924920127795527156549520766773162939
+Engenharia Geológica	14,9824742268041237113402061855670103093
+Química Aplicada	16,7584615384615384615384615384615384615
+Matemática	16,797619047619047619047619047619047619
+Engenharia de Micro e Nanotecnologias	17,0521235521235521235521235521235521236
+Engenharia e Gestão Industrial	17,364201183431952662721893491124260355
+Engenharia Biomédica	17,9884803921568627450980392156862745098
+Engenharia Física	17,9165094339622641509433962264150943396
+Engenharia do Ambiente	16,0584192439862542955326460481099656357
+Biologia Celular e Molecular	17,5005758157389635316698656429942418426
+Engenharia de Materiais	16,653459119496855345911949685534591195
+
+
+-- 18
+18 resultados
+
+Engenharia Mecânica	214
+Engenharia Informática	278
+Engenharia Química e Biológica	170
+Engenharia Eletrotécnica e de Computadores	187
+Matemática Aplicada à Gestão do Risco	118
+Conservação - Restauro	79
+Engenharia Civil	151
+Engenharia Geológica	70
+Bioquímica	225
+Química Aplicada	114
+Engenharia e Gestão Industrial	163
+Engenharia de Micro e Nanotecnologias	140
+Matemática	153
+Engenharia Biomédica	188
+Engenharia Física	127
+Engenharia do Ambiente	134
+
+
+--19
+4 resultados
+
+1	Geral 3852
+2	Açores	66
+3	Madeira	68
+5	Emigrantes 40
+
+
+
+-- 20
+18 resultados
+
+Engenharia Informática	17,0904761904761904761904761904761904762
+Engenharia Mecânica	17,3906666666666666666666666666666666667
+Matemática Aplicada à Gestão do Risco	17,068
+Engenharia Eletrotécnica e de Computadores	15,907831325301204819277108433734939759
+Engenharia Química e Biológica	16,9760563380281690140845070422535211268
+Conservação - Restauro	16,1592592592592592592592592592592592593
+Engenharia Civil	15,686
+Bioquímica	17,6734177215189873417721518987341772152
+Engenharia Geológica	14,975
+Química Aplicada 16,9333333333333333333333333333333333333
+Matemática 17,024
+Engenharia de Micro e Nanotecnologias 16,5923076923076923076923076923076923077
+Engenharia e Gestão Industrial	17,48
+Engenharia Biomédica	18,3233333333333333333333333333333333333
+Engenharia Física	18,4392857142857142857142857142857142857
+Engenharia do Ambiente	16,2090909090909090909090909090909090909
+Biologia Celular e Molecular 18,1353846153846153846153846153846153846
+Engenharia de Materiais	16,428
+
